@@ -33,8 +33,6 @@ negative_words = [
 
 leaflets_df = pd.read_csv('leaflets.csv', sep='¦', encoding='latin-1', engine='python')
 leaflets_df['Text'] = leaflets_df['Text'].apply(lambda row: row + f' {" ".join([i for i in random.choice([negative_words, positive_words, neutral_words])])}')
-for ind, row in leaflets_df.iterrows():
-    print(row['Text'])
 leaflets_df['sent'] = leaflets_df['Text'].apply(lambda row: analyser.polarity_scores(row)['compound'])
 leaflets_df['sent_rounded'] = leaflets_df['sent'].round()
 leaflets_df = leaflets_df.sort_values('sent', ascending=False)
