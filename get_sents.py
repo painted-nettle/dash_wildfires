@@ -37,4 +37,4 @@ leaflets_df['sent'] = leaflets_df['Text'].apply(lambda row: analyser.polarity_sc
 leaflets_df['sent_rounded'] = leaflets_df['sent'].round()
 leaflets_df = leaflets_df.sort_values('sent', ascending=False)
 leaflets_df = leaflets_df[['Leaflet_ID', 'sent', 'sent_rounded']]
-leaflets_df.to_csv('sents_supp.csv', index=False)
+leaflets_df.to_csv('sents.csv', index=False)
