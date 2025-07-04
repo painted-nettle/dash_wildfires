@@ -102,19 +102,6 @@ with st.sidebar:
             max_value=max_cars
         )
 
-        st.divider()
-
-        st.write('The fake data were generated in several iterations, each more advanced and realistic than the last. '
-                 'The default data displayed here are the latest (fifth) iteration. To view other iterations, select '
-                 'them here.')
-        data_iteration = st.selectbox(label='Select data iteration',
-                     options=['Iteration 5 (latest)',
-                     'Iteration 4',
-                     'Iteration 3',
-                     'Iteration 2',
-                     'Iteration 1']
-                     )
-
     with st.expander(label='Filtering options'):
         st.write('It is possible to include the title and text of each leaflet in the results. However, please note '
                  'that since the dataframe displayed is based on each unique distribution, this will cause an extremely '
@@ -126,16 +113,8 @@ with st.sidebar:
                                  options=['None (raw data)', 'Demographics', 'Sentiment', 'Topics', 'Geographical'])
 
 try:
-    if data_iteration:
-        if data_iteration != 'Iteration 5 (latest)':
-            num = data_iteration.split(' ')[1]
-            earliest_delivery_date, latest_delivery_date, unique_org_types, unique_cities, unique_neighbourhoods, \
-                min_age, max_age, min_income, max_income, min_house_price, max_house_price, max_cars, max_occupants, \
-                dists_orgs_df, leaflets_df = load_data(f'old_datasets/dists_{num}.csv')
-        else:
-            earliest_delivery_date, latest_delivery_date, unique_org_types, unique_cities, unique_neighbourhoods, \
-                min_age, max_age, min_income, max_income, min_house_price, max_house_price, max_cars, max_occupants, \
-                dists_orgs_df, leaflets_df = load_data(f'dists.csv')
+
+    earliest_delivery_date, latest_delivery_date, unique_org_types, unique_cities, unique_neighbourhoods, min_age, max_age, min_income, max_income, min_house_price, max_house_price, max_cars, max_occupants, dists_orgs_df, leaflets_df = load_data(f'dists.csv')
     filtered_df = dists_orgs_df
 
     if filter_org:
