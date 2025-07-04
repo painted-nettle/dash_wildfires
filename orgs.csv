@@ -1,0 +1,701 @@
+ID,Name,Type
+1,Myndigheten för samhällsskydd och beredskap (MSB),government
+2,Skogsstyrelsen,government
+3,Länsstyrelsen Gävleborg,government
+4,SMHI (Sveriges meteorologiska och hydrologiska institut),government
+5,Räddningstjänsten Storgöteborg,government
+6,Kustbevakningen,government
+7,Sveriges geologiska undersökning (SGU),government
+8,Naturskyddsföreningen,ngo
+9,Världsnaturfonden WWF Sverige,ngo
+10,Stiftelsen Skogsbrandforskning,ngo
+11,Klimataktion Sverige,ngo
+12,Fältbiologerna,ngo
+13,Skydda Skogen,ngo
+14,Nätverket för Biologisk Mångfald,ngo
+15,Act Svenska kyrkan,religious
+16,Equmeniakyrkans Katastroffond,religious
+17,Islamiska Hjälpen i Sverige,religious
+18,Stadsmissionens Kriscenter,religious
+19,Skogskapellets Tysta Vänner,religious
+20,Frälsningsarméns Sociala Arbete,religious
+21,Holmen Skog AB,corporate
+22,Länsförsäkringar Skog & Lantbruk,corporate
+23,"Saab AB, Avdelning för Krisövervakning",corporate
+24,Vattenfall AB,corporate
+25,Sweco Krisberedskap & Analys,corporate
+26,Ericsson Response,corporate
+27,Sveriges Radio P4 Dalarna,media
+28,"Dagens Nyheter, Klimatredaktionen",media
+29,Tidningen Skogen,media
+30,Granskning Sverige,media
+31,Klimatnytt Direkt,media
+32,Alternativfakta Podden,media
+33,Föreningen Jordens Urkraft,alternative
+34,Sanningsrörelsen för Klimatbalans,alternative
+35,Hälsokällan i Naturen,alternative
+36,Forn Sed Sverige,alternative
+37,Nätverket för Fri Energi och Vatten,alternative
+38,Institutet för Intuitiv Vetenskap,alternative
+39,Miljöpartiet de Gröna,political
+40,"Centerpartiet, Landsbygdsutskottet",political
+41,Vänsterpartiets Klimatinitiativ,political
+42,Landsbygdspartiet Oberoende,political
+43,Grön Ungdom,political
+44,Tankesmedjan Cogito,political
+45,Älvdalens Frivilliga Resursgrupp (FRG),community
+46,Mora-Våmhus Hembygdsförening,community
+47,Ljusdals Byalag för Krissamverkan,community
+48,Frivilliga Radioorganisationen (FRO),community
+49,Grannsamverkan mot Skogsbrand,community
+50,Jägareförbundet Svenska Jägareförbundet,community
+201,Myndigheten för samhällsskydd och beredskap (MSB),government
+202,Naturskyddsföreningen,ngo
+203,Svenska Kyrkans Katastrofhjälp,religious
+204,Länsförsäkringar Skog,corporate
+205,Sveriges Radio P4 Dalarna,media
+206,Skogsläkning och Jordning Sverige,alternative/wellness
+207,"Miljöpartiet de Gröna, Krisberedskapsutskottet",political
+208,Ljusdals Frivilliga Resursgrupp,community
+209,Skogsstyrelsen,government
+210,Världsnaturfonden WWF Sverige,ngo
+211,Sveaskog AB,corporate
+212,Tidningen Skogen,media
+213,Sanningen om Skogsbränderna,alternative/wellness
+214,Räddningstjänsten Storgöteborg,government
+215,Föreningen Skydda Skogen,ngo
+216,"Grannsamverkan mot Brand, Värmland",community
+217,Saab Digital Command & Control Solutions,corporate
+218,SMHI (Sveriges meteorologiska och hydrologiska institut),government
+219,Svenska Jägareförbundet,ngo
+220,Frälsningsarmén i Gävle,religious
+221,Centerpartiets Landsbygdsnätverk,political
+222,Hästböndernas Foderhjälp (Facebook-grupp),community
+223,Krisinformation.se,media
+224,Holmen Skog AB,corporate
+225,Länsstyrelsen Gävleborg,government
+226,Urkraftens Vårdare,alternative/wellness
+227,Frivilliga Radioorganisationen (FRO),community
+228,Fridays For Future Sverige,ngo
+229,SVT Nyheter Lokalt - Västernorrland,media
+230,"Equmeniakyrkan Älvdalen, Stödgrupp",religious
+231,Skogsindustriernas Riksförbund,political
+232,Totalförsvarets forskningsinstitut (FOI),government
+233,Brandskyddsföreningen Sverige,corporate
+234,Stiftelsen Skogsarvet,ngo
+235,Svenska Lottakåren,community
+236,Bloggen 'Klimatskeppet',media
+237,Nätverket mot Geoengineering och Väderförändring,alternative/wellness
+238,Mora Kommuns Krisledningsnämnd,government
+239,Islamiska Hjälpen i Sverige,religious
+240,Fältbiologerna,ngo
+241,Climatorisk Analys AB,corporate
+242,Initiativet 'Rädda Vår Bygd',political
+243,Älvdalens Skoterklubb - Logistikstöd,community
+244,Sveriges Hembygdsförbund,community
+245,Sveriges Geologiska Undersökning (SGU),government
+246,S:t Georgs Scoutgillen i Dalarna,religious
+247,Klimataktion Stockholm,ngo
+248,Hexagon Geospatial Intelligence,corporate
+249,Grön Ungdom,political
+250,Oberoende Nyheter 'Fri Press',media
+251,Myndigheten för samhällsskydd och beredskap (MSB),government
+252,Skogsstyrelsen,government
+253,Naturskyddsföreningen,ngo
+254,Svenska Kyrkans Krishantering,religious
+255,Länsförsäkringar Skog,corporate
+256,Sveriges Radio P4 Dalarna,media
+257,Jordens Röst,alternative/wellness
+258,Miljöpartiet de Gröna,political
+259,Byalagets Brandvärn,community
+260,Sveriges Meteorologiska och Hydrologiska Institut (SMHI),government
+261,Världsnaturfonden WWF Sverige,ngo
+262,Holmen Skog AB,corporate
+263,Dagens Nyheter,media
+264,Skogsupproret!,political
+265,Frivilliga Radioorganisationen (FRO),community
+266,Länsstyrelsen Gävleborg,government
+267,Frihetens Fackla,alternative/wellness
+268,Räddningstjänsten Storgöteborg,government
+269,Greenpeace Sverige,ngo
+270,Equmeniakyrkans Katastrofhjälp,religious
+271,Sveaskog,corporate
+272,SVT Nyheter,media
+273,Fornkunskapens Vänner,alternative/wellness
+274,Centerpartiet,political
+275,Grannsamverkan mot Skogsbrand,community
+276,Försvarsmakten,government
+277,Skogens Värn,ngo
+278,SAAB Group,corporate
+279,Sanningssökaren.nu,media
+280,Röda Korset Sverige,community
+281,Kustbevakningen,government
+282,Klimataktion,ngo
+283,Asatrosamfundet Skogsblot,religious
+284,Ericsson Response,corporate
+285,Skogsaktuellt,media
+286,Hälsans Väg till Skogsro,alternative/wellness
+287,National Samling för Trygghet,political
+288,Civilförsvarsförbundet,community
+289,Lantmäteriet,government
+290,Fältbiologerna,ngo
+291,Islamiska Förbundets Hjälporganisation,religious
+292,Vattenfall AB,corporate
+293,Granskning Sverige,media
+294,Kristallkraft Helande,alternative/wellness
+295,Allians för Landsbygden,political
+296,Hela Sverige Ska Leva,community
+297,Svenska Jägareförbundet,ngo
+298,Husqvarna Group,corporate
+299,Andlig Harmoni Skogshealing,religious
+300,Sveriges Hembygdsförbund,community
+101,Myndigheten för samhällsskydd och beredskap (MSB),government
+102,Naturskyddsföreningen,ngo
+103,Skogsstyrelsen,government
+104,Svenska Kyrkans Beredskapsnätverk,religious
+105,"Holmen Skog AB, Brandsäkerhetsdivisionen",corporate
+106,Sveriges Radio P4 Värmland,media
+107,Föreningen Skogens Vårdare,alternative/wellness
+108,Grön Ungdoms Klimatgrupp,political
+109,Dalarnas Frivilliga Resursgrupp,community
+110,"Länsstyrelsen Gävleborg, Krisenheten",government
+111,"Svenska Jägareförbundet, Vilt- och Skogsvård",ngo
+112,Sveaskog Krisförvaltning,corporate
+113,Räddningstjänsten Syd,government
+114,Equmeniakyrkans Katastrofhjälp,religious
+115,Fria Folkets Röst,media
+116,Nätverket för Hållbart Skogsbruk,ngo
+117,Smålands Bygdegårdsdistrikt,community
+118,Landsbygdspartiet Oberoende,political
+119,Centrum för Klimat och Säkerhet (Lunds Universitet),ngo
+120,Harmoni & Hälsa Skogsterapi,alternative/wellness
+121,Trygg-Hansa Skadeförebyggande Avdelning,corporate
+122,Oberoende Nyhetsbyrån 'Sanningen Först',media
+123,Svenska Samernas Riksförbund (SSR),ngo
+124,Frivilliga Radioorganisationen (FRO),community
+125,SOS Alarm Sverige AB,government
+126,Ericsson Crisis Response Solutions,corporate
+127,Klimatsans - Oberoende Klimatinformation,alternative/wellness
+128,"Sverigedemokraterna, Miljöpolitisk talesperson",political
+129,Islamiska Förbundets Hjälporganisation,religious
+130,Brandskyddsföreningen Sverige,ngo
+131,"Vattenfall Vattenkraft, Dammsäkerhet",corporate
+132,Järvsö Hembygdsförening,community
+133,Svenska Turistföreningen (STF),ngo
+134,"Polismyndigheten, Nationella operativa avdelningen (Noa)",government
+135,"Aftonbladet TV, Krisbevakning",media
+136,Urskogens Vänner,alternative/wellness
+137,Centerpartiets Landsbygdskommitté,political
+138,Hästensö Frivilliga Brandkår,community
+139,SMHI (Sveriges meteorologiska och hydrologiska institut),government
+140,"If Skadeförsäkring, Företagsrisk",corporate
+141,Stiftelsen Skandinavisk Själavård,religious
+142,Extinction Rebellion Sverige,political
+143,Krisinformation.se,media
+144,Försvarsutbildarna Beredskap,community
+145,LRF Skogsägarna,ngo
+146,Institutet för Naturlig Visdom,alternative/wellness
+147,Göteborgs Stads Krishantering,government
+148,Värmlands Skogsägarförening,community
+149,Lokaltidningen 'Skogsbygden',media
+150,"Saab AB, Beredskaps- och Säkerhetssystem",corporate
+51,Myndigheten för samhällsskydd och beredskap (MSB),government
+52,"Länsstyrelsen Dalarna, Enheten för krishantering",government
+53,Skogsstyrelsen,government
+54,SMHI (Sveriges meteorologiska och hydrologiska institut),government
+55,"Försvarsmakten, Nationellt Insatsstöd",government
+56,"Svenska Kraftnät, Beredskapsavdelningen",government
+57,"Kustbevakningen, Flygövervakning",government
+58,Naturskyddsföreningen,ngo
+59,Världsnaturfonden WWF Sverige,ngo
+60,Greenpeace Sverige,ngo
+61,Skogens Värn,ngo
+62,Fältbiologerna,ngo
+63,Klimataktion Sverige,ngo
+64,Svenska Jägareförbundet,ngo
+65,"Svenska Kyrkan, Katastrofhjälp",religious
+66,Stadsmissionen Kriscenter,religious
+67,Islamiska Hjälporganisationen i Sverige,religious
+68,"Pingst - Fria församlingar i samverkan, Nödhjälp",religious
+69,Equmeniakyrkans Samhällsinsats,religious
+70,Skogsindustrierna,corporate
+71,"Länsförsäkringar, Skadeförebyggande",corporate
+72,CrisisTech Solutions AB,corporate
+73,"Vattenfall AB, Beredskap & Säkerhet",corporate
+74,Holmen Skog,corporate
+75,"Saab AB, Aerial Surveillance Systems",corporate
+76,Nordic Drone Services AB,corporate
+77,Sveriges Radio P4 (Lokal Kanal),media
+78,"Dagens Nyheter, Grävande Journalistik",media
+79,"SVT (Sveriges Television), Krisrapport",media
+80,Granskning Sverige (Alternativmedia),media
+81,Klimat- och Skogsbloggen,media
+82,"Tidningen Land, Landsbygdsbevakning",media
+83,Jordens Läkande Kraft Kollektivet,alternative/wellness
+84,Sanningssökarna för Fri Information,alternative/wellness
+85,Nordiska Urkraftens Väktare,alternative/wellness
+86,Hälsans Väg - Naturlig Beredskap,alternative/wellness
+87,Andlig Medvetenhet i Kris,alternative/wellness
+88,"Miljöpartiet de Gröna, Krisberedskapsutskottet",political
+89,"Centerpartiet, Landsbygdspolitiska nätverket",political
+90,Landsbygdspartiet Oberoende,political
+91,Solidaritet för Klimaträttvisa,political
+92,"Medborgerlig Samling, Trygghetskommissionen",political
+93,Frivilliga Radioorganisationen (FRO),community
+94,"Röda Korset, Lokala krisgrupper",community
+95,Dalarnas Hembygdsförbund,community
+96,Grannsamverkan mot Skogsbränder,community
+97,Frivilliga Resursgruppen (FRG),community
+98,Svenska Lottakåren,community
+99,Föreningen Älvdalens Bevakning,community
+100,Allmogen - Förening för Traditionell Kunskap,alternative/wellness
+151,Myndigheten för samhällsskydd och beredskap (MSB),government
+152,Skogsstyrelsen,government
+153,Naturskyddsföreningen,ngo
+154,Länsförsäkringar Skog & Lantbruk,corporate
+155,Sveriges Radio P4 Gävleborg,media
+156,Svenska Kyrkans Krishantering,religious
+157,Miljöpartiet de Grönas Klimatgrupp,political
+158,Urkraftens väktare,alternative/wellness
+159,Ljusdals Frivilliga Resursgrupp,community
+160,Sveriges meteorologiska och hydrologiska institut (SMHI),government
+161,WWF Sverige,ngo
+162,Holmen Skog AB,corporate
+163,SVT Vetenskapens Värld,media
+164,Grannsamverkan mot Skogsbrand,community
+165,Sanningsnätverket om Väderkontroll,alternative/wellness
+166,Centerpartiets Landsbygdsutskott,political
+167,Räddningstjänsten Storgöteborg,government
+168,Equmeniakyrkans katastroffond,religious
+169,Skogens Värn,ngo
+170,Saab Beredskapslösningar,corporate
+171,Svenska Jägareförbundet,community
+172,Skogsbrandspodden,media
+173,Hälsocirkeln för Jordens Balans,alternative/wellness
+174,Liberalernas Trygghetskommission,political
+175,Länsstyrelsen Dalarna,government
+176,SCA (Svenska Cellulosa Aktiebolaget),corporate
+177,Fältbiologerna,ngo
+178,Svenska Lottakåren,community
+179,Andlig Gemenskap för Skogsfrid,religious
+180,Oberoende Klimatgranskare,media
+181,Folkhemmet Först - Egendomsskydd,political
+182,Jordens Läkande Energier,alternative/wellness
+183,"Försvarsmakten, Ingenjörregementet",government
+184,Frivilliga Radioorganisationen (FRO),community
+185,Vattenfall Klimatanalys,corporate
+186,Klimataktion,ngo
+187,"Dagens Nyheter, Klimatredaktionen",media
+188,Vänsterpartiet - Rättvis Omställning,political
+189,Stockholms Moskéers Krisfond,religious
+190,SOS Alarm,government
+191,Kristallklara Insikter Kollektivet,alternative/wellness
+192,Forskare för Framtiden,ngo
+193,Husqvarna Skogsbrandsutrustning,corporate
+194,Dalarnas Sök- och Räddningshundar,community
+195,Flamman,media
+196,Sankta Birgittas Eldvakter,religious
+197,Medborgerlig Samling för Beredskap,political
+198,Sveaskog,corporate
+199,Räddningsregion Bergslagen,government
+200,Älvdalens Hembygdsförening,community
+401,Myndigheten för samhällsskydd och beredskap (MSB),government
+402,Naturskyddsföreningen,ngo
+403,Svenska Kyrkans Nätverk för Krisstöd,religious
+404,Länsförsäkringar Skog,corporate
+405,Sveriges Radio P4 Dalarna,media
+406,Jordens Läkande Kraft,alternative
+407,Miljöpartiet de Gröna - Skogsutskottet,political
+408,Västmanlands Bygdegårdsdistrikt,community
+409,Skogsstyrelsen,government
+410,Världsnaturfonden WWF Sverige,ngo
+411,Sveaskog AB,corporate
+412,Frivilliga Radioorganisationen (FRO),community
+413,Folkrörelsen för Skogens Bevarande,political
+414,SVT Nyheter Lokalt - Gävleborg,media
+415,Holistisk Beredskap Sverige,alternative
+416,Länsstyrelsen Jämtland,government
+417,Equmeniakyrkans Katastrofhjälp,religious
+418,Skogens Värn,ngo
+419,CrisisTech Solutions AB,corporate
+420,Oberoende Krisrapportören,media
+421,Fornkunskap för Modern Kris,alternative
+422,Grannsamverkan mot Skogsbrand,community
+423,Sveriges meteorologiska och hydrologiska institut (SMHI),government
+424,Centerpartiets Landsbygdsnätverk,political
+425,Fältbiologerna,ngo
+426,Holmen Skog AB,corporate
+427,Skogsaktuellt Tidskrift,media
+428,Räddningstjänsten Storgöteborg,government
+429,Svenska Jägareförbundet Krisberedskap,community
+430,Sanningens Vänner om Klimatförändringar,alternative
+431,Islamiska Förbundets Hjälporganisation,religious
+432,Stiftelsen Hållbar Framtid,ngo
+433,Allians för Ansvarsfull Skogspolitik,political
+434,Nordic Drone Watch AB,corporate
+435,Falu Kommuns Krisinformation,government
+436,Podden 'Beredskap i Vardagen',media
+437,Andlig Beredskap i Norden,religious
+438,Hälsinglands Frivilliga Resursgrupp,community
+439,"Institutet för Framtidsstudier, Klimatavdelningen",ngo
+440,Folkrörelsen mot 5G och Skogsbränder,alternative
+441,"Polismyndigheten, Nationella Insatsstyrkan",government
+442,"IF Skadeförsäkring, Naturskador",corporate
+443,Agera för Skogen,political
+444,Lokaltidningen 'Skogsbygden',media
+445,Svenska Turistföreningen (STF) Säkerhetsråd,community
+446,Klimatrealisterna Skandinavien,ngo
+447,Försvarsmaktens Expertcentrum för CBRN och Miljö,government
+448,Telia Beredskapstjänster,corporate
+449,Nätverket för Traditionell Skogsskötsel,alternative
+450,Svenska Samernas Riksförbund (SSR),community
+301,Myndigheten för samhällsskydd och beredskap (MSB),government
+302,Naturskyddsföreningen,ngo
+303,Länsförsäkringar Skog & Lantbruk,corporate
+304,Sveriges Radio P4 Dalarna,media
+305,Frivilliga Resursgruppen (FRG),community
+306,Skogens Helande Kraft,alternative/wellness
+307,Svenska Kyrkans Nödhjälpsnätverk,religious
+308,Allians för Ansvarsfull Skogspolitik,political
+309,Länsstyrelsen Gävleborg,government
+310,Fältbiologerna,ngo
+311,Holmen Skog AB,corporate
+312,Sveriges Television (SVT) Vetenskap,media
+313,Bygdegårdarnas Riksförbund,community
+314,Sanningsgranskaren,alternative/wellness
+315,Räddningstjänsten Storgöteborg,government
+316,Skogsbrandbevakning Flygförening,ngo
+317,Sveaskog,corporate
+318,Miljöpartiet de Gröna,political
+319,Equmeniakyrkans Katastroffond,religious
+320,Sveriges Meteorologiska och Hydrologiska Institut (SMHI),government
+321,Jordens Vänner (Friends of the Earth Sweden),ngo
+322,Krisinformation.se,media
+323,Grannsamverkan mot Brand,community
+324,Urkraftens Visdom,alternative/wellness
+325,Svenska Röda Korset,ngo
+326,Södra Skogsägarna,corporate
+327,Sveriges Hembygdsförbund,community
+328,Kustbevakningen,government
+329,Krisberedskapsbloggen,media
+330,Svenska Jägareförbundet,ngo
+331,Lantbrukarnas Riksförbund (LRF),political
+332,Försvarsmaktens Helikopterflottilj,government
+333,Svensk Brand- och Säkerhetscertifiering AB,corporate
+334,Folkets Röst Nyheter,alternative/wellness
+335,Civilförsvarsförbundet,community
+336,Sveriges Imamråd Hjälpinsatser,religious
+337,Skogsstyrelsen,government
+338,Håll Sverige Rent,ngo
+339,Brandskyddsföreningen Sverige,corporate
+340,Oberoende Klimatgranskaren,media
+341,SOS Alarm Sverige AB,government
+342,Skogsbrand Värn,community
+343,Greenpeace Norden,ngo
+344,Hälsans Väg Holistisk Center,alternative/wellness
+345,Centerpartiet - Landsbygdsutskottet,political
+346,Skogsforsk (Forskningsinstitutet för skogsnäringen),corporate
+347,Dalarnas Tidningar (DT),media
+348,Svenska Samernas Riksförbund,community
+349,Naturvårdsverket,government
+350,Sanningsnätverket,alternative/wellness
+451,Myndigheten för Samhällsskydd och Beredskap (MSB),government
+452,Skogsvärnarnas Riksförbund,ngo
+453,Svenska Kyrkans Katastrofhjälp,religious
+454,Nordic Forestry Insurance AB,corporate
+455,Krisinformation via Sveriges Radio P4,media
+456,Jordens Läkande Kraft Kollektivet,alternative/wellness
+457,Grön Framtid Partiet,political
+458,Älvdalens Frivilliga Brandvärn,community
+459,"Skogsstyrelsen, Brandbevakningsenheten",government
+460,Stiftelsen Rädda Vår Natur,ngo
+461,Pingstförsamlingens Stödgrupp för Drabbade,religious
+462,Scantech Aerial Solutions,corporate
+463,Norrlands-Posten Krisredaktion,media
+464,Folkrörelsen mot 5G och Skogsmanipulation,alternative/wellness
+465,Landsbygdsinitiativet för Självförsörjning,political
+466,Mora Byalags Samordningsgrupp,community
+467,"Länsstyrelsen Dalarna, Krisberedskapsenheten",government
+468,Nätverket för Brandekologi och Forskning,ngo
+469,Muslimska Hjälpen Sverige,religious
+470,Svea Skogsentreprenad & Beredskap AB,corporate
+471,Bloggen 'Sanningen om Skogsbränderna',media
+472,Shamansk Kraftcirkel för Skogens Återhämtning,alternative/wellness
+473,Allians för Trygghet och Egendomsskydd,political
+474,Frivilliga Radioorganisationen (FRO),community
+475,Sveriges Meteorologiska och Hydrologiska Institut (SMHI),government
+476,"Fältbiologerna, Klimatgruppen",ngo
+477,Equmeniakyrkans Insamlingsstiftelse,religious
+478,"Holmen Skog, Brandriskhantering",corporate
+479,Podden 'Krisberedskap i Praktiken',media
+480,Andlig Resiliens och Naturkontakt,alternative/wellness
+481,Socialdemokraternas Kommission för Landsbygdens Säkerhet,political
+482,Grannsamverkan mot Skogsbrand i Värmland,community
+483,"Polismyndigheten, Nationella Insatsstyrkan",government
+484,Skydda Skogen Föreningen,ngo
+485,Svenska Alliansmissionens Katastroffond,religious
+486,Länsförsäkringar Skog & Lantbruk,corporate
+487,Oberoende Journalistnätverket 'Granskning Norr',media
+488,Nordiska Urkraftens Bevarare,alternative/wellness
+489,Medborgerlig Samling för Krisberedskap,political
+490,"Svenska Lottakåren, Stödfunktioner",community
+491,Försvarsmaktens Helikopterflottilj,government
+492,Push Sweden (Klimatnätverk),ngo
+493,Hoppets Stjärna Nödhjälp,religious
+494,CrisisComms Nordic AB,corporate
+495,Lokaltidningen 'Brandfronten',media
+496,Naturhälsans Vänner,alternative/wellness
+497,Miljöpartiets Arbetsgrupp för Klimatanpassning,political
+498,Härjedalens Hembygdsförenings Krishanteringsgrupp,community
+499,"Södra Skogsägarna, Beredskapsplanering",corporate
+500,SOS Alarm Sverige AB,government
+501,Myndigheten för samhällsskydd och beredskap (MSB),government
+502,Skogsstyrelsen,government
+503,Naturskyddsföreningen,ngo
+504,Länsförsäkringar Skog & Lantbruk,corporate
+505,Sveriges Radio P4 Dalarna,media
+506,Svenska Kyrkans Krisstöd,religious
+507,Mora Frivilliga Brandkår,community
+508,Sanningen om Skogsbränderna Blogg,alternative/wellness
+509,"Miljöpartiet de Gröna, Skogsutskottet",political
+510,Holmen Skog AB,corporate
+511,Klimataktion Sverige,ngo
+512,Länsstyrelsen Gävleborg,government
+513,Brandskyddsföreningen Sverige,ngo
+514,Dalarnas Tidningar (DT),media
+515,Jordens Vänner (Friends of the Earth Sweden),ngo
+516,FireWatch Nordic AB,corporate
+517,"Samernas Riksförbund, Rennäringsfrågor",community
+518,Fria Granskaren,media
+519,Naturlig Harmoni & Jordläkning,alternative/wellness
+520,Räddningstjänsten Storgöteborg,government
+521,Centerpartiets Landsbygdsnätverk,political
+522,Equmeniakyrkans Katastrofhjälp,religious
+523,Sveaskog,corporate
+524,Världsnaturfonden WWF Sverige,ngo
+525,Svenska Jägareförbundet,community
+526,Podden Skogsfolket,media
+527,Sveriges Hembygdsförbund,community
+528,Frihetens Fackla,alternative/wellness
+529,SOS Alarm Sverige AB,government
+530,DataLytics Crisis Mapping,corporate
+531,Liberalernas Klimatpolitiska Grupp,political
+532,Stockholm Environment Institute (SEI),ngo
+533,Muslimska Hjälpen,religious
+534,Värmlands Folkblad,media
+535,Försvarsmakten (Swedish Armed Forces),government
+536,Älvdalens Byaråd,community
+537,Jordnära Visdom,alternative/wellness
+538,Södra Skogsägarna,corporate
+539,Röda Korset i Sverige,ngo
+540,"Sverigedemokraterna, Miljö och Jordbruksinitiativ",political
+541,SMHI (Sveriges meteorologiska och hydrologiska institut),government
+542,Frivilliga Radioresursen (FRO),community
+543,IF Skadeförsäkring,corporate
+544,Katolsk Social Nödhjälp Sverige,religious
+545,Skydda Skogen,ngo
+546,Folkrörelsen Nej till EU - Miljögruppen,political
+547,Grannsamverkan mot Skogsbrand,community
+548,Självhushållarna,alternative/wellness
+549,Lantbrukarnas Riksförbund (LRF),corporate
+550,SVT Nyheter Lokalt,media
+551,Myndigheten för samhällsskydd och beredskap (MSB),government
+552,Skogsstyrelsen,government
+553,Länsstyrelsen i Dalarnas län,government
+554,Räddningstjänsten Storgöteborg,government
+555,Naturskyddsföreningen,ngo
+556,Världsnaturfonden WWF Sverige,ngo
+557,Fältbiologerna,ngo
+558,Klimataktion Sverige,ngo
+559,Svenska Kyrkans Katastrofhjälp,religious
+560,Diakonia Krisstöd,religious
+561,Sveaskog AB,corporate
+562,Länsförsäkringar Skog & Lantbruk,corporate
+563,Holmen Skog,corporate
+564,Krisinformation.se,media
+565,Sveriges Radio P4 Gävleborg,media
+566,Skogsaktuellt,media
+567,Jordens Läkande Kraft,alternative/wellness
+568,Sanningen om Vädermanipulation,alternative/wellness
+569,Urskogens Visdom Cirkel,alternative/wellness
+570,Miljöpartiets Krisgrupp,political
+571,Centerpartiets Landsbygdsnätverk,political
+572,Folkinitiativet Rädda Vår Skog,political
+573,Frivilliga Resursgruppen (FRG) Stockholm,community
+574,Älvdalens Frivilliga Brandkår,community
+575,Grannsamverkan mot Brandrisk Västmanland,community
+576,Svenska Jägareförbundet,ngo
+577,Sveriges Meteorologiska och Hydrologiska Institut (SMHI),government
+578,Försvarsmakten (Swedish Armed Forces),government
+579,Airheart Drönarövervakning AB,corporate
+580,If Skadeförsäkring,corporate
+581,Dagens Nyheter - Klimatredaktionen,media
+582,Bloggen Skogsbrandskollen,media
+583,Skydda Skogen Föreningen,ngo
+584,Equmeniakyrkans Solidaritetsfond,religious
+585,Helhetshälsa i Naturen,alternative/wellness
+586,Folkvett och Frihet,alternative/wellness
+587,Moderaternas Skogsbruksutskott,political
+588,Liberalernas Miljöpolitiska Nätverk,political
+589,Lantbrukarnas Riksförbund (LRF),community
+590,Hjälpnätverket Gävleborg,community
+591,Kustbevakningen,government
+592,Sveriges Geologiska Undersökning (SGU),government
+593,Bioekonomi Forskning Sverige,ngo
+594,CrisisComms Scandinavia AB,corporate
+595,Svenska Allmogefåravelsföreningen,ngo
+596,Granskning Sverige Oberoende Media,media
+597,Sankt Olofs Pilgrimsgemenskap,religious
+598,Rättvisa för Småskogsägare,political
+599,Föreningen Svensk Fäbodkultur och utmarksbruk,community
+600,Missing People Sweden,community
+601,Myndigheten för samhällsskydd och beredskap (MSB),government
+602,Naturskyddsföreningen,ngo
+603,Svenska Kyrkans Nödhjälp,religious
+604,Länsförsäkringar Skog,corporate
+605,Sveriges Radio P4 Krisinformation,media
+606,Jordens Röst & Visdom,alternative/wellness
+607,Miljöpartiet de Gröna,political
+608,Frivilliga Resursgruppen (FRG),community
+609,Svenska Skogsstyrelsen,government
+610,Världsnaturfonden WWF Sverige,ngo
+611,Holmen Skog AB,corporate
+612,Sveriges meteorologiska och hydrologiska institut (SMHI),government
+613,Sanningssökarna för Frihet,alternative/wellness
+614,Skogsaktuellt,media
+615,Centerpartiet - Landsbygdsprogrammet,political
+616,Svenska Lottakåren,community
+617,Frälsningsarmén i Sverige,religious
+618,Klimataktion Sverige,ngo
+619,Saab Aerotech Systems,corporate
+620,Länsstyrelsen Gävleborg,government
+621,Dagens Nyheter - Klimatredaktionen,media
+622,Permakultur i Sverige,alternative/wellness
+623,Allians för en Levande Landsbygd,political
+624,Bygdegårdarnas Riksförbund,community
+625,Svenska Jägareförbundet,ngo
+626,Kommunal Räddningstjänst Norr,government
+627,Diakonia Sverige,religious
+628,Vattenfall AB,corporate
+629,Nordisk Urkraft,alternative/wellness
+630,Skogsindustriernas Riksförbund,political
+631,Hembygdsföreningen Älvdalen,community
+632,Lantbrukets Affärstidning (ATL),media
+633,Fältbiologerna,ngo
+634,Kustbevakningen,government
+635,Hälsokraft från Skogen,alternative/wellness
+636,Nordic WeatherTech Solutions,corporate
+637,Ekumeniska Beredskapsgruppen,religious
+638,Frivilliga Automobilkåren (FAK),community
+639,Vänsterpartiets Klimatnätverk,political
+640,Skogens Värn,ngo
+641,Den Oberoende Granskaren,media
+642,Totalförsvarets Forskningsinstitut (FOI),government
+643,Sveaskog AB,corporate
+644,Grön Ungdom,political
+645,Fria Medvetenheten,alternative/wellness
+646,Islamiska Samarbetsrådet för Krissamverkan,religious
+647,Institutet för Framtidsstudier,ngo
+648,TV4 Nyheterna,media
+649,Grannsamverkan mot Skogsbrand,community
+650,Lantbrukarnas Riksförbund (LRF),ngo
+651,Myndigheten för samhällsskydd och beredskap (MSB),government
+652,Naturskyddsföreningen,ngo
+653,Länsförsäkringar Skog,corporate
+654,Frivilliga Resursgruppen (FRG) Dalarna,community
+655,Svenska Kyrkans Nödhjälp,religious
+656,Sveriges Radio P4 Gävleborg,media
+657,Skogsstyrelsen,government
+658,Hälsans Väg Holistisk Center,alternative/wellness
+659,Miljöpartiet de Gröna,political
+660,Holmen Skog AB,corporate
+661,Skydda Skogen,ngo
+662,Länsstyrelsen Västernorrland,government
+663,Sanningssökarnas Forum,alternative/wellness
+664,Älvdalens Byalag för Krissamverkan,community
+665,SVT Nyheter Lokalt,media
+666,Brandskyddsföreningen Sverige,corporate
+667,Skogsägarnas Riksförbund,political
+668,Islamiska Hjälporganisationen Sverige,religious
+669,Jordens Vänner (Friends of the Earth Sweden),ngo
+670,SOS Alarm Sverige AB,government
+671,Urkraftens Bevarare,alternative/wellness
+672,Firefly Drones AB,corporate
+673,Fältbiologerna,ngo
+674,Centerpartiets Landsbygdsnätverk,political
+675,Mora Frivilliga Brandkår,community
+676,Skogsland Tidskrift,media
+677,SMHI (Sveriges meteorologiska och hydrologiska institut),government
+678,Pingstkyrkans Katastrofhjälp,religious
+679,Skogsindustrierna,corporate
+680,Medveten Överlevnad,alternative/wellness
+681,Härjedalens Sameby,community
+682,Granskning Sverige Oberoende Media,media
+683,Världsnaturfonden WWF Sverige,ngo
+684,Räddningstjänsten Storgöteborg,government
+685,Liberala Skogsägare,political
+686,Sveaskog,corporate
+687,Jokkmokks Allmänning,community
+688,Frihet från Systemet,alternative/wellness
+689,S:t Johannes Gemenskap,religious
+690,Dagens Nyheter Klimatredaktion,media
+691,Försvarsmakten,government
+692,Klimataktion Sverige,ngo
+693,Arctic Weather Tech,corporate
+694,Skogsmystik & Naturterapi,alternative/wellness
+695,Lantbrukarnas Riksförbund (LRF),political
+696,Grannsamverkan mot Skogsbrand,community
+697,Svenska Jägareförbundet,community
+698,Lokaltidningen Mitt i Bygden,media
+699,Buddhistiska Samfundet Krisstöd,religious
+700,Gröna Bilister,ngo
+701,Myndigheten för samhällsskydd och beredskap (MSB),government
+702,Skogsstyrelsen,government
+703,Sveriges Meteorologiska och Hydrologiska Institut (SMHI),government
+704,Naturskyddsföreningen,ngo
+705,Länsförsäkringar Skog,corporate
+706,Sveriges Radio P4 Västernorrland,media
+707,Svenska Kyrkan - Kris- och katastrofgrupp,religious
+708,Urkraftens väktare,alternative
+709,Räddningstjänsten Storgöteborg,government
+710,Frivilliga Radioorganisationen (FRO),community
+711,Klimataktion Sverige,ngo
+712,Svenska Cellulosa Aktiebolaget (SCA),corporate
+713,Dagens Nyheter - Vetenskapsredaktionen,media
+714,Skogsägarnas Riksförbund,community
+715,Försvarsmakten - Hemvärnet,government
+716,Naturlig Hälsa och Frihet,alternative
+717,Gröna Bilister,political
+718,Equmeniakyrkans Katastrofhjälp,religious
+719,Länsstyrelsen Dalarna,government
+720,FireWatch Scandinavia AB,corporate
+721,Fältbiologerna,ngo
+722,Bloggen: 'Skogsfolkets Sanning',alternative
+723,Världsnaturfonden WWF Sverige,ngo
+724,Jägarnas Riksförbund,community
+725,Krisinformation.se,media
+726,Miljöpartiet de gröna,political
+727,Hoppets Stjärna,religious
+728,Holmen Skog,corporate
+729,Grannsamverkan mot Skogsbrand,community
+730,Kustbevakningen,government
+731,Folkets Sanningsrörelse,alternative
+732,Sverigedemokraterna - Miljöpolitisk talesperson,political
+733,Tidningen Skogen,media
+734,Skydda Skogen,ngo
+735,GeoResponse Analys AB,corporate
+736,Svenska Scoutrådet,community
+737,Statens Jordbruksverk,government
+738,Muslimska Hjälpen Sverige,religious
+739,Granskande Journalister Nätverket,media
+740,Centrum för klimat och säkerhet (CCS),ngo
+741,Vänsterpartiet - Klimatnätverket,political
+742,Trygg-Hansa Skadeförebyggande,corporate
+743,Jordens Vänner,ngo
+744,Självförsörjningskollektivet Gryningen,alternative
+745,Bygdegårdarnas Riksförbund,community
+746,Norrlands Fria Röst,media
+747,Gävleborgs Kommunförbund,government
+748,Stiftelsen Håll Sverige Rent,ngo
+749,Nordic Drone Solutions AB,corporate
+750,Rädda Barnen - Insatsteam Sverige,community
